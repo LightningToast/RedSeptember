@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{59D5CD74-BDF6-9137-2CD0-52A8781FDF30}|">
+  <MonoDevelop.Ide.ItemProperties.RedSeptember PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SubControl.cs">
+    <Files>
+      <File FileName="Assets/PlayerFirebaseController.cs" Line="33" Column="32" />
+      <File FileName="Assets/SubControl.cs" Line="50" Column="32" />
+      <File FileName="../../Event-Horizon/Assets/Shooting/Scripts/Turret.cs" Line="40" Column="70" />
+      <File FileName="../../Event-Horizon/Assets/Shooting/Scripts/LaserShoot.cs" Line="22" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

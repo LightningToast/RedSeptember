@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "839958256146-gmvms5talmreevh8qa2356an9r3pphi9.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElm4jqO8EbSWuehwpSQBQziYNgqCtJDs"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:839958256146:ios:e90ac916d9778872", 
+        "android_client_info": {
+          "package_name": "com.JustinPark.RedSeptember"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "redseptember-5c74c.appspot.com", 
+    "project_id": "redseptember-5c74c", 
+    "firebase_url": "https://redseptember-5c74c.firebaseio.com", 
+    "project_number": "839958256146"
+  }
+}
